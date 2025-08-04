@@ -645,4 +645,5 @@ int main(int argc, char** argv) {
     free(local_global_max);
     MPI_Finalize();
     return 0;
+
 }
